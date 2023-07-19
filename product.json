@@ -1,21 +1,21 @@
 [
   {
     "title": "ZX17U-6",
-     "specs": {
-      "Çalışma Ağırlığı": "1.760 kg",
-      "Kepçe Kapasitesi": "0,044 m3",
-      "Motor": "Yanmar 3TNV70",
-      "Motor Gücü": "15,6 PS / 2400 devir",
-      "Hidrolik Kapasite": "55,7 L/dk",
-      "Kol Koparma Gücü": "880 kgf",
-      "Kova Koparma Gücü": "1630 kgf"
-    },
-    "photos": [
-      "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17.jpg",
-      "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-2.jpg",
-      "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-3.jpg",
-      "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-4.jpg",
-      "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-5.jpg",
-    ]
+    "specs": {
+        "Çalışma Ağırlığı": "1.760 kg",
+        "Kepçe Kapasitesi": "0,044 m3",
+        "Motor": "Yanmar 3TNV70",
+        "Motor Gücü": "15,6 PS / 2400 devir",
+        "Hidrolik Kapasite": "55,7 L/dk",
+        "Kol Koparma Gücü": "880 kgf",
+        "Kova Koparma Gücü": "1630 kgf"
+      },
+      "photos": [
+        "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17.jpg",
+        "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-2.jpg",
+        "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-3.jpg",
+        "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-4.jpg",
+        "https://www.enka.com.tr/u/i/urun/hitachi-zaxis-17-5.jpg",
+      ]
   }
 ]
