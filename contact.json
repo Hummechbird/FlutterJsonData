@@ -77,13 +77,14 @@
       "tel2": "0242 443 10 00",
       "email": "info@enka.com.tr",
       "lat": "36.988528",
-      "long": ",30.626833",
+      "long": "30.626833",
       "url": "https://www.enka.com.tr/u/i/provinces/iller-07.jpeg"
     },
     {
       "city": "Bursa",
       "adress": "Alaaddinbey Mahallesi İzmir Yolu Cad. No: 327 Savana Life Blok J Nilüfer / Bursa",
       "tel1": "0224 220 36 52",
+      "tel2":"",
       "email": "info@enka.com.tr",
       "lat": "29.0588",
       "long": "40.1885",
