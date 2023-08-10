@@ -1,15 +1,15 @@
 [
   {
-    "category": "İş Makineleri",
+    "brand": "İş Makineleri",
     "url": "https://www.enka.com.tr/u/i/slide/slide-01.jpg"
   },
   {
-    "category": "Fore Kazık Yol Ekipmanları",
+    "brand": "Fore Kazık Yol Ekipmanları",
     "url": "https://www.enka.com.tr/u/i/slide/slide-02.jpg"
   },
   {
-    "category": "İş Makineleri",
-    "brand": "Hitachi Kaya Kamyonlari",
+    "brand": "İş Makineleri",
+    "products": "Hitachi Kaya Kamyonlari",
     "url": "https://www.enka.com.tr/u/i/slide/slide-03.jpg"
   }
 ]
